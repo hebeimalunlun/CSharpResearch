@@ -8,5 +8,9 @@ namespace TestCSharpFeatures
         {
             Assert.AreEqual(1, 1);
         }
+        public void TestMethod2()
+        {
+            Assert.AreEqual(1, 2);
+        }
     }
 }
